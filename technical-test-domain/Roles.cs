@@ -2,6 +2,7 @@
 {
     public enum Roles
     {
-        PAGE_1
+        PAGE_1,
+        PAGE_2
     }
 }

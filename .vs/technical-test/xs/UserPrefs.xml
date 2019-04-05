@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{BBE87CA7-F715-45E7-9F02-7CB519F2461B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="unit-tests/NavigationShould.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
-      <File FileName="unit-tests/NavigationShould.cs" Line="25" Column="60" />
-      <File FileName="technical-test-application/Navigation.cs" Line="2" Column="29" />
+      <File FileName="unit-tests/NavigationShould.cs" Line="35" Column="13" />
+      <File FileName="technical-test-application/Navigation.cs" Line="15" Column="44" />
       <File FileName="technical-test-domain/User.cs" Line="1" Column="32" />
+      <File FileName=".gitignore" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
