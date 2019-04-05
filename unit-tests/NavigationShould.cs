@@ -37,5 +37,16 @@ namespace unit_tests
 
             Assert.IsTrue(userIsAllowedToAccessPage);
         }
+
+        [TestMethod]
+        public void Allow_role_page3_access_page3_view()
+        {
+            User user = new User(Roles.PAGE_3);
+            Page page = new Page("Page 3");
+
+            bool userIsAllowedToAccessPage = navigation.IsAccessAllowed(user, page);
+
+            Assert.IsTrue(userIsAllowedToAccessPage);
+        }
     }
 }

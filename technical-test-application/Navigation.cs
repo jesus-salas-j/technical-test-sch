@@ -7,12 +7,17 @@ namespace technical_test_application
     {
         public bool IsAccessAllowed(User user, Page page)
         {
-            if (user.Role.Equals(Roles.PAGE_1))
+            switch (user.Role)
             {
-                return page.Name.Equals("Page 1");
+                case Roles.PAGE_1:
+                    return page.Name.Equals("Page 1");
+                case Roles.PAGE_2:
+                    return page.Name.Equals("Page 2");
+                case Roles.PAGE_3:
+                    return page.Name.Equals("Page 3");
+                default:
+                    return false;
             }
-
-            return page.Name.Equals("Page 2");
         }
     }
 }
