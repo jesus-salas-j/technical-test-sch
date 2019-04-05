@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BBE87CA7-F715-45E7-9F02-7CB519F2461B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="unit-tests/NavigationShould.cs">
+    <Files>
+      <File FileName="unit-tests/NavigationShould.cs" Line="25" Column="60" />
+      <File FileName="technical-test-application/Navigation.cs" Line="2" Column="29" />
+      <File FileName="technical-test-domain/User.cs" Line="1" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="technical-test" expanded="True">
+            <Node name="unit-tests" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.technical-test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
