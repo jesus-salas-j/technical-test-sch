@@ -1,9 +1,0 @@
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/bin/Debug/netcoreapp2.0/technical-test-domain.deps.json
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/bin/Debug/netcoreapp2.0/technical-test-domain.dll
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/bin/Debug/netcoreapp2.0/technical-test-domain.pdb
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/obj/Debug/netcoreapp2.0/technical-test-domain.csprojAssemblyReference.cache
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/obj/Debug/netcoreapp2.0/technical-test-domain.csproj.CoreCompileInputs.cache
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/obj/Debug/netcoreapp2.0/technical-test-domain.AssemblyInfoInputs.cache
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/obj/Debug/netcoreapp2.0/technical-test-domain.AssemblyInfo.cs
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/obj/Debug/netcoreapp2.0/technical-test-domain.dll
-/Users/jesus.salas/Projects/technical-test/technical-test-domain/obj/Debug/netcoreapp2.0/technical-test-domain.pdb
